@@ -157,3 +157,5 @@ SELECT
   'Lowest Sales' AS sales_type
 FROM ranked_sales
 WHERE rank_asc = 1;
+
+-- end of HW 04
